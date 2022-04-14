@@ -27,17 +27,17 @@ When the program is running, a user will be able to select one of the following 
 **Anything else will be ignored**
 
 
-##Printing an elements
-###Searching
+## Printing an elements
+### Searching
 An element from the BST will always be printed along with its frequency. For example, if there is a node in the BST that contains the element −7, and its frequency is presently recorded as 2, the data in the node will be printed as
-−7(2)
+−7(2).
 
 If the element (say 122) is not present in the BST, that will be reported as having the frequency 0. The output
 will look as follows.
-122(0)
-###Maximum and minimum elements
+122(0).
+### Maximum and minimum elements
 If the tree is empty, in both cases, the program will print 0(0). Otherwise, the program will print the maximum and minimum elements from the tree. 
 
-###Preorder, postorder and inorder traversals
+### Preorder, postorder and inorder traversals
 Each element will be printed followed by its frequency respective to the chosen traversal order.
 
