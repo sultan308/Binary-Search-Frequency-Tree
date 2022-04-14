@@ -1,4 +1,4 @@
-#Binary Search Frequency Tree 
+# Binary Search Frequency Tree 
 This project was a part of my problem-solving with algorithms university module.
 ##Description
 This is a non-verbose input-driven java program for maintaining a binary search tree (BST) of integer elements (negative, zero or positive). The speciality of your BST is that it records the frequency of occurrence for each integer element in it.
