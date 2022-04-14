@@ -42,11 +42,11 @@ public class Node
     }
     public boolean hasLeft()
     {
-        return leftPointer == null ? false : true;
+        return leftPointer != null;
     }
     public boolean hasRight()
     {
-        return rightPointer == null ? false : true;
+        return rightPointer != null;
     }
 
     @Override
